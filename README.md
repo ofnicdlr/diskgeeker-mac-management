@@ -1,0 +1,1 @@
+# diskgeeker-mac-management
